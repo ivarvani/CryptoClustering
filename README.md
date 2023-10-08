@@ -23,6 +23,6 @@ What is the impact of using fewer features to cluster the data using K-Means?
 # Answer
 The clusters are well defined. Less overlap bewteen clusters.
 # Composite Plots.
-Created composite plots of the elobow data and the clustered data of the original scaled data and PCA data respectively to visualise differences of using lesser feauture 
+Created composite plots of the elbow data and the clustered data of the original scaled data and PCA data respectively to visualise differences of using lesser feautures 
 to cluster Data using KMeans.
 
